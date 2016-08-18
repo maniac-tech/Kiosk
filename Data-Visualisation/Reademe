@@ -1,3 +1,12 @@
 This folder contains the code required to run the Data Visualisation segment in the Kiosk.
 
 The main file to begin with is index.php
+
+We save our data on a local server in a database (MySql).
+And we use php to retrieve the data onto our Webpage.
+
+Data Visualization charts have been inherited from Zingchart.
+ZingChart provides better Data representation charts, rendered using Javascript.
+It is a powerful Library, which helps you create charts quickly and easily.
+
+Link: https://github.com/zingchart/ZingChart
