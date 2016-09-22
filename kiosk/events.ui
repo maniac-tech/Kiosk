@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>690</width>
+    <height>590</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>653</width>
+         <height>818</height>
+        </rect>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="37" column="1">
+         <widget class="QLabel" name="label_39">
+          <property name="text">
+           <string>26th,27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="29" column="2">
+         <widget class="QLabel" name="label_33">
+          <property name="text">
+           <string>BasketBall Court</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QLabel" name="label_17">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Date&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="35" column="1">
+         <widget class="QLabel" name="label_71">
+          <property name="text">
+           <string>26th,27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="38" column="2">
+         <widget class="QLabel" name="label_46">
+          <property name="text">
+           <string>Lawn</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Events&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QLabel" name="label_18">
+          <property name="text">
+           <string>26th , 27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="16" column="0">
+         <widget class="QLabel" name="label_76">
+          <property name="text">
+           <string>FIFA 14</string>
+          </property>
+         </widget>
+        </item>
+        <item row="15" column="0">
+         <widget class="QLabel" name="label_75">
+          <property name="text">
+           <string>DOTA 2</string>
+          </property>
+         </widget>
+        </item>
+        <item row="32" column="0">
+         <widget class="QLabel" name="label_26">
+          <property name="text">
+           <string>Panna Football</string>
+          </property>
+         </widget>
+        </item>
+        <item row="19" column="1">
+         <widget class="QLabel" name="label_4">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Date&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="31" column="1">
+         <widget class="QLabel" name="label_66">
+          <property name="text">
+           <string>26th,27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="22" column="0">
+         <widget class="QLabel" name="label_59">
+          <property name="text">
+           <string>Be God</string>
+          </property>
+         </widget>
+        </item>
+        <item row="23" column="0">
+         <widget class="QLabel" name="label_54">
+          <property name="text">
+           <string>Crystal Maze</string>
+          </property>
+         </widget>
+        </item>
+        <item row="27" column="0">
+         <widget class="QLabel" name="label_32">
+          <property name="text">
+           <string>Foosball</string>
+          </property>
+         </widget>
+        </item>
+        <item row="25" column="0">
+         <widget class="QLabel" name="label_56">
+          <property name="text">
+           <string>Carrom(1v1) (2v2)</string>
+          </property>
+         </widget>
+        </item>
+        <item row="26" column="0">
+         <widget class="QLabel" name="label_58">
+          <property name="text">
+           <string>Chess</string>
+          </property>
+         </widget>
+        </item>
+        <item row="32" column="1">
+         <widget class="QLabel" name="label_48">
+          <property name="text">
+           <string>22nd,23th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="24" column="0">
+         <widget class="QLabel" name="label_51">
+          <property name="text">
+           <string>Treasure Hunt</string>
+          </property>
+         </widget>
+        </item>
+        <item row="25" column="2">
+         <widget class="QLabel" name="label_55">
+          <property name="text">
+           <string>Drawing Hall</string>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="0">
+         <widget class="QLabel" name="label_15">
+          <property name="text">
+           <string>Robo Wars</string>
+          </property>
+         </widget>
+        </item>
+        <item row="30" column="0">
+         <widget class="QLabel" name="label_69">
+          <property name="text">
+           <string>ACID</string>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="0">
+         <widget class="QLabel" name="label_42">
+          <property name="text">
+           <string>Football</string>
+          </property>
+         </widget>
+        </item>
+        <item row="24" column="2">
+         <widget class="QLabel" name="label_53">
+          <property name="text">
+           <string>Phase 1 Lobby</string>
+          </property>
+         </widget>
+        </item>
+        <item row="28" column="0">
+         <widget class="QLabel" name="label_30">
+          <property name="text">
+           <string>Box Cricket</string>
+          </property>
+         </widget>
+        </item>
+        <item row="29" column="0">
+         <widget class="QLabel" name="label_37">
+          <property name="text">
+           <string>Rink Football</string>
+          </property>
+         </widget>
+        </item>
+        <item row="23" column="2">
+         <widget class="QLabel" name="label_57">
+          <property name="text">
+           <string>Room8/Room9/Room10</string>
+          </property>
+         </widget>
+        </item>
+        <item row="34" column="0">
+         <widget class="QLabel" name="label_9">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; text-decoration: underline;&quot;&gt;Special Attraction&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="11" column="0">
+         <widget class="QLabel" name="label_31">
+          <property name="text">
+           <string>Cricket</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QLabel" name="label_10">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; text-decoration: underline;&quot;&gt;Technical&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="1">
+         <widget class="QLabel" name="label_20">
+          <property name="text">
+           <string>26th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="12" column="0">
+         <widget class="QLabel" name="label_47">
+          <property name="text">
+           <string>Bowling</string>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="0">
+         <widget class="QLabel" name="label_16">
+          <property name="text">
+           <string>Poster Presentation</string>
+          </property>
+         </widget>
+        </item>
+        <item row="13" column="0">
+         <widget class="QLabel" name="label_25">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; text-decoration: underline;&quot;&gt;LAN&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QLabel" name="label_11">
+          <property name="text">
+           <string>Laser Tag</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QLabel" name="label_12">
+          <property name="text">
+           <string>Coding</string>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="0">
+         <widget class="QLabel" name="label_14">
+          <property name="text">
+           <string>TTP</string>
+          </property>
+         </widget>
+        </item>
+        <item row="9" column="0">
+         <widget class="QLabel" name="label_23">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; text-decoration: underline;&quot;&gt;NEON&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="14" column="0">
+         <widget class="QLabel" name="label_73">
+          <property name="text">
+           <string>CS 1.6 (5 V 5, 1 V1)</string>
+          </property>
+         </widget>
+        </item>
+        <item row="18" column="0">
+         <widget class="QLabel" name="label_77">
+          <property name="text">
+           <string>CS GO</string>
+          </property>
+         </widget>
+        </item>
+        <item row="17" column="0">
+         <widget class="QLabel" name="label_78">
+          <property name="text">
+           <string>NFS MW</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="0">
+         <widget class="QLabel" name="label_13">
+          <property name="text">
+           <string>Web Designing</string>
+          </property>
+         </widget>
+        </item>
+        <item row="28" column="2">
+         <widget class="QLabel" name="label_24">
+          <property name="text">
+           <string>BasketBall Court</string>
+          </property>
+         </widget>
+        </item>
+        <item row="36" column="2">
+         <widget class="QLabel" name="label_44">
+          <property name="text">
+           <string>Phase 3 Lobby</string>
+          </property>
+         </widget>
+        </item>
+        <item row="33" column="0">
+         <widget class="QLabel" name="label_36">
+          <property name="text">
+           <string>Selfie Contest</string>
+          </property>
+         </widget>
+        </item>
+        <item row="31" column="2">
+         <widget class="QLabel" name="label_67">
+          <property name="text">
+           <string>BasketBall Court</string>
+          </property>
+         </widget>
+        </item>
+        <item row="37" column="2">
+         <widget class="QLabel" name="label_45">
+          <property name="text">
+           <string>Lawn</string>
+          </property>
+         </widget>
+        </item>
+        <item row="30" column="2">
+         <widget class="QLabel" name="label_64">
+          <property name="text">
+           <string>Phase 1 Lobby</string>
+          </property>
+         </widget>
+        </item>
+        <item row="19" column="0">
+         <widget class="QLabel" name="label_2">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; text-decoration: underline;&quot;&gt;Mobile&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="35" column="2">
+         <widget class="QLabel" name="label_72">
+          <property name="text">
+           <string>Campus</string>
+          </property>
+         </widget>
+        </item>
+        <item row="38" column="0">
+         <widget class="QLabel" name="label_41">
+          <property name="text">
+           <string>Zorb ball</string>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="1">
+         <widget class="QLabel" name="label_22">
+          <property name="text">
+           <string>27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="1">
+         <widget class="QLabel" name="label_79">
+          <property name="text">
+           <string>27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QLabel" name="label_19">
+          <property name="text">
+           <string>27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="1">
+         <widget class="QLabel" name="label_21">
+          <property name="text">
+           <string>26th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="32" column="2">
+         <widget class="QLabel" name="label_43">
+          <property name="text">
+           <string>BasketBall Court</string>
+          </property>
+         </widget>
+        </item>
+        <item row="20" column="0">
+         <widget class="QLabel" name="label_3">
+          <property name="text">
+           <string>COC/CR/ Mini Militia</string>
+          </property>
+         </widget>
+        </item>
+        <item row="28" column="1">
+         <widget class="QLabel" name="label_34">
+          <property name="text">
+           <string>26th,27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="26" column="1">
+         <widget class="QLabel" name="label_62">
+          <property name="text">
+           <string>26th, 27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="19" column="2">
+         <widget class="QLabel" name="label_5">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Place&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="22" column="1">
+         <widget class="QLabel" name="label_60">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="21" column="0">
+         <widget class="QLabel" name="label_8">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; text-decoration: underline;&quot;&gt;Fun&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="24" column="1">
+         <widget class="QLabel" name="label_52">
+          <property name="text">
+           <string>26th, 27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="22" column="2">
+         <widget class="QLabel" name="label_50">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="20" column="2">
+         <widget class="QLabel" name="label_7">
+          <property name="text">
+           <string>Phase 1</string>
+          </property>
+         </widget>
+        </item>
+        <item row="29" column="1">
+         <widget class="QLabel" name="label_27">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="30" column="1">
+         <widget class="QLabel" name="label_65">
+          <property name="text">
+           <string>26th,27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="25" column="1">
+         <widget class="QLabel" name="label_63">
+          <property name="text">
+           <string>27th, 28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="35" column="0">
+         <widget class="QLabel" name="label_70">
+          <property name="text">
+           <string>Pokewalk</string>
+          </property>
+         </widget>
+        </item>
+        <item row="26" column="2">
+         <widget class="QLabel" name="label_61">
+          <property name="text">
+           <string>Drawing Hall</string>
+          </property>
+         </widget>
+        </item>
+        <item row="36" column="0">
+         <widget class="QLabel" name="label_28">
+          <property name="text">
+           <string>Hogathon</string>
+          </property>
+         </widget>
+        </item>
+        <item row="20" column="1">
+         <widget class="QLabel" name="label_6">
+          <property name="text">
+           <string>27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="37" column="0">
+         <widget class="QLabel" name="label_38">
+          <property name="text">
+           <string>Paintball</string>
+          </property>
+         </widget>
+        </item>
+        <item row="27" column="1">
+         <widget class="QLabel" name="label_29">
+          <property name="text">
+           <string>27th , 28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="38" column="1">
+         <widget class="QLabel" name="label_40">
+          <property name="text">
+           <string>27,th 28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="27" column="2">
+         <widget class="QLabel" name="label_35">
+          <property name="text">
+           <string>Room 6</string>
+          </property>
+         </widget>
+        </item>
+        <item row="23" column="1">
+         <widget class="QLabel" name="label_49">
+          <property name="text">
+           <string>26th,27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="36" column="1">
+         <widget class="QLabel" name="label_74">
+          <property name="text">
+           <string>26th,27th,28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="31" column="0">
+         <widget class="QLabel" name="label_68">
+          <property name="text">
+           <string>Shark Tank</string>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="1">
+         <widget class="QLabel" name="label_80">
+          <property name="text">
+           <string>26th , 27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="11" column="1">
+         <widget class="QLabel" name="label_81">
+          <property name="text">
+           <string>26th,27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="12" column="1">
+         <widget class="QLabel" name="label_82">
+          <property name="text">
+           <string>26th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="14" column="1">
+         <widget class="QLabel" name="label_83">
+          <property name="text">
+           <string>26th , 27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="15" column="1">
+         <widget class="QLabel" name="label_84">
+          <property name="text">
+           <string>26th,27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="16" column="1">
+         <widget class="QLabel" name="label_85">
+          <property name="text">
+           <string>26th, 27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="17" column="1">
+         <widget class="QLabel" name="label_86">
+          <property name="text">
+           <string>26th, 27th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="18" column="1">
+         <widget class="QLabel" name="label_87">
+          <property name="text">
+           <string>27th, 28th</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QLabel" name="label_88">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Place&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QLabel" name="label_89">
+          <property name="text">
+           <string>Room 7</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="2">
+         <widget class="QLabel" name="label_90">
+          <property name="text">
+           <string>Lenevo Lab (5th Floor)</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="2">
+         <widget class="QLabel" name="label_91">
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="2">
+         <widget class="QLabel" name="label_92">
+          <property name="text">
+           <string>Syndicate Room</string>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="2">
+         <widget class="QLabel" name="label_93">
+          <property name="text">
+           <string>Phase 3 Lobby</string>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="2">
+         <widget class="QLabel" name="label_94">
+          <property name="text">
+           <string>4Th Floor, PH</string>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="2">
+         <widget class="QLabel" name="label_95">
+          <property name="text">
+           <string>Room 13</string>
+          </property>
+         </widget>
+        </item>
+        <item row="11" column="2">
+         <widget class="QLabel" name="label_96">
+          <property name="text">
+           <string>Room 15</string>
+          </property>
+         </widget>
+        </item>
+        <item row="12" column="2">
+         <widget class="QLabel" name="label_97">
+          <property name="text">
+           <string>Room 14</string>
+          </property>
+         </widget>
+        </item>
+        <item row="14" column="2">
+         <widget class="QLabel" name="label_98">
+          <property name="text">
+           <string>Lab 3</string>
+          </property>
+         </widget>
+        </item>
+        <item row="15" column="2">
+         <widget class="QLabel" name="label_99">
+          <property name="text">
+           <string>Lab 4</string>
+          </property>
+         </widget>
+        </item>
+        <item row="16" column="2">
+         <widget class="QLabel" name="label_100">
+          <property name="text">
+           <string>Lab 2</string>
+          </property>
+         </widget>
+        </item>
+        <item row="17" column="2">
+         <widget class="QLabel" name="label_101">
+          <property name="text">
+           <string>Lab 1</string>
+          </property>
+         </widget>
+        </item>
+        <item row="18" column="2">
+         <widget class="QLabel" name="label_102">
+          <property name="text">
+           <string>Lab 4</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>690</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
